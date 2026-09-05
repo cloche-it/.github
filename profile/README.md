@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/cloche-it/.github/main/profile/cloche.png" alt="Cloche" width="96"></p>
+<p><img src="https://raw.githubusercontent.com/cloche-it/.github/main/profile/cloche.png" alt="Cloche" width="260"></p>
 
 **Your AI App. Served.**
 
