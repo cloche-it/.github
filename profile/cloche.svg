@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 104" role="img" aria-labelledby="title">
-  <title id="title">Cloche lifted mark</title>
-  <path fill="#171612" fill-rule="evenodd" d="M56 17 A10 10 0 1 1 76 17 A10 10 0 0 1 56 17 Z M61 17 A5 5 0 1 0 71 17 A5 5 0 0 0 61 17 Z"/>
-  <path fill="#171612" d="M23 62 C27 33 44 22 66 22 C88 22 105 33 109 62 H23Z"/>
-  <path fill="#171612" fill-rule="evenodd" d="M13 68 H119 L116 77 C108 81 24 81 16 77 Z M21 71 C43 75 89 75 111 71 L110 75 C89 79 43 79 22 75 Z"/>
-</svg>
