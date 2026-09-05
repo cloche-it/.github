@@ -1,4 +1,4 @@
-<p><img src="profile/cloche.svg" alt="Cloche" width="96"></p>
+<p><img src="cloche.svg" alt="Cloche" width="96"></p>
 
 **Your AI App. Served.**
 
