@@ -8,5 +8,4 @@ Cloche is a home for the apps people make with AI agents. Build one in Claude, C
 
 > Fetch `https://cloche.dev/agent-setup/prompt.md` - it has everything you need to get started.
 
-
 [cloche.dev](https://cloche.dev) · hi@cloche.dev
